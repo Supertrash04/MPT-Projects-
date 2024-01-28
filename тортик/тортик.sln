@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "тортик", "тортик\тортик.csproj", "{A960F523-67BF-49FD-B348-EBF0942ACB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A960F523-67BF-49FD-B348-EBF0942ACB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A960F523-67BF-49FD-B348-EBF0942ACB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A960F523-67BF-49FD-B348-EBF0942ACB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A960F523-67BF-49FD-B348-EBF0942ACB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6BD243F-D9A1-4452-9021-7E77C53C7A15}
+	EndGlobalSection
+EndGlobal

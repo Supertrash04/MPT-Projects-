@@ -1,0 +1,14 @@
+C:\Users\maksi\source\repos\тортик\тортик\bin\Debug\net6.0\тортик.exe
+C:\Users\maksi\source\repos\тортик\тортик\bin\Debug\net6.0\тортик.deps.json
+C:\Users\maksi\source\repos\тортик\тортик\bin\Debug\net6.0\тортик.runtimeconfig.json
+C:\Users\maksi\source\repos\тортик\тортик\bin\Debug\net6.0\тортик.dll
+C:\Users\maksi\source\repos\тортик\тортик\bin\Debug\net6.0\тортик.pdb
+C:\Users\maksi\source\repos\тортик\тортик\obj\Debug\net6.0\тортик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\тортик\тортик\obj\Debug\net6.0\тортик.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\тортик\тортик\obj\Debug\net6.0\тортик.AssemblyInfo.cs
+C:\Users\maksi\source\repos\тортик\тортик\obj\Debug\net6.0\тортик.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\тортик\тортик\obj\Debug\net6.0\тортик.dll
+C:\Users\maksi\source\repos\тортик\тортик\obj\Debug\net6.0\refint\тортик.dll
+C:\Users\maksi\source\repos\тортик\тортик\obj\Debug\net6.0\тортик.pdb
+C:\Users\maksi\source\repos\тортик\тортик\obj\Debug\net6.0\тортик.genruntimeconfig.cache
+C:\Users\maksi\source\repos\тортик\тортик\obj\Debug\net6.0\ref\тортик.dll
