@@ -1,0 +1,14 @@
+C:\Users\maksi\source\repos\проводник\проводник\obj\Debug\net6.0\проводник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\проводник\проводник\obj\Debug\net6.0\проводник.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\проводник\проводник\obj\Debug\net6.0\проводник.AssemblyInfo.cs
+C:\Users\maksi\source\repos\проводник\проводник\obj\Debug\net6.0\проводник.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\проводник\проводник\bin\Debug\net6.0\проводник.exe
+C:\Users\maksi\source\repos\проводник\проводник\bin\Debug\net6.0\проводник.deps.json
+C:\Users\maksi\source\repos\проводник\проводник\bin\Debug\net6.0\проводник.runtimeconfig.json
+C:\Users\maksi\source\repos\проводник\проводник\bin\Debug\net6.0\проводник.dll
+C:\Users\maksi\source\repos\проводник\проводник\bin\Debug\net6.0\проводник.pdb
+C:\Users\maksi\source\repos\проводник\проводник\obj\Debug\net6.0\проводник.dll
+C:\Users\maksi\source\repos\проводник\проводник\obj\Debug\net6.0\refint\проводник.dll
+C:\Users\maksi\source\repos\проводник\проводник\obj\Debug\net6.0\проводник.pdb
+C:\Users\maksi\source\repos\проводник\проводник\obj\Debug\net6.0\проводник.genruntimeconfig.cache
+C:\Users\maksi\source\repos\проводник\проводник\obj\Debug\net6.0\ref\проводник.dll
